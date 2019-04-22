@@ -1,0 +1,26 @@
+body {
+    width: 10%;
+    height: 100%;
+}
+
+.container {
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 20%;
+}
+
+#entrada {
+    width: 90px;
+}
+
+#entrada2 {
+    width: 90px;
+}
+
+#entrada3 {
+    overflow: scroll;
+}
+
+#boton {
+    margin-top: 15px;
+}
